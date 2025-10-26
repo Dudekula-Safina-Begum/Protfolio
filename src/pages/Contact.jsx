@@ -37,7 +37,7 @@ Let’s connect and build something amazing together!
             GitHub
           </a>
           <a
-            href="www.linkedin.com/in/dudekula-safinabegum"
+            href="https://www.linkedin.com/in/dudekula-safinabegum/"
             target="_blank"
             className="hover:text-blue-600 font-medium"
           >
