@@ -113,7 +113,7 @@ const Navbar = () => {
             Contact
           </ScrollLink>
           <a
-          href="Safina_Begum_Resume.pdf"
+          href={`${import.meta.env.BASE_URL}Safina_Begum_Resume.pdf`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:text-blue-600 font-semibold"
