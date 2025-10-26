@@ -14,10 +14,10 @@ const Footer = () => {
           <a href="mailto:safinabegum147@gmail.com" className="hover:text-blue-400">
             <FaEnvelope />
           </a>
-          <a href="https://github.com/yourusername" target="_blank" className="hover:text-blue-400">
+          <a href="https://github.com/Dudekula-Safina-Begum" target="_blank" className="hover:text-blue-400">
             <FaGithub />
           </a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" className="hover:text-blue-400">
+          <a href="https://www.linkedin.com/in/dudekula-safinabegum" target="_blank" className="hover:text-blue-400">
             <FaLinkedin />
           </a>
         </div>
