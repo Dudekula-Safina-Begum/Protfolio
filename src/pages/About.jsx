@@ -33,7 +33,7 @@ const About = () => {
             websites that work beautifully across all devices.
           </p>
           <p className="text-slate-500 ">
-            Skills: HTML | CSS | JavaScript | React | Tailwind CSS | Python | SQL | AWS
+            Skills: HTML | CSS | JavaScript | React | Tailwind CSS | Python | SQL | AWS | Git Hub
           </p>
         </div>
       </div>
