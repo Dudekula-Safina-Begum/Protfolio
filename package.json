@@ -4,14 +4,15 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+     "homepage": "https://github.com/Dudekula-Safina-Begum/Protfolio.git",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/Dudekula-Safina-Begum/Protfolio.git",
+ 
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "react": "^18.3.1",
