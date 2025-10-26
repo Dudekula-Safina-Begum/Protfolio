@@ -30,14 +30,14 @@ Let’s connect and build something amazing together!
 
         <div className="flex justify-center gap-6 mt-4">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Dudekula-Safina-Begum"
             target="_blank"
             className="hover:text-blue-600 font-medium"
           >
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="www.linkedin.com/in/dudekula-safinabegum"
             target="_blank"
             className="hover:text-blue-600 font-medium"
           >
