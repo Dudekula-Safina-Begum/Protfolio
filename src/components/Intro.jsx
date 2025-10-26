@@ -22,7 +22,7 @@ const Intro = () => {
           </p>
           <div className="item-center flex mt-10  justify-around">
             <button
-              onClick={() => window.open("/Safina_Begum_Resume.pdf", "_blank")}
+              onClick={() => window.open("Safina_Begum_Resume.pdf", "_blank")}
               className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
             >
               Download Resume
