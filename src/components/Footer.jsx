@@ -17,7 +17,11 @@ const Footer = () => {
           <a href="https://github.com/Dudekula-Safina-Begum" target="_blank" className="hover:text-blue-400">
             <FaGithub />
           </a>
+<<<<<<< HEAD
           <a href="https://www.linkedin.com/in/dudekula-safinabegum" target="_blank" className="hover:text-blue-400">
+=======
+          <a href="https://www.linkedin.com/in/dudekula-safinabegum/" target="_blank" className="hover:text-blue-400">
+>>>>>>> 34291e88bffe045254062a974b67ec412782d8a2
             <FaLinkedin />
           </a>
         </div>
