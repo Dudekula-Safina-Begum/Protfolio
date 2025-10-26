@@ -21,7 +21,7 @@ Let’s connect and build something amazing together!
         <p className="mt-1">
           📧{" "}
           <a
-            href="mailto:safinabegum@gmail.com"
+            href="mailto:safinabegum147@gmail.com"
             className="text-blue-600 hover:underline"
           >
             safinabegum147@gmail.com
