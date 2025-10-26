@@ -3,8 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Dudekula-Safina-begum.github.io/protfolio/",
   "scripts": {
-     "homepage": "https://github.com/Dudekula-Safina-Begum/Protfolio.git",
+  
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
